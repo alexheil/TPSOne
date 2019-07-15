@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.21",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"HTML5",
+		"LinuxNoEditor",
+		"WindowsNoEditor",
+		"MacNoEditor"
+	]
+}
